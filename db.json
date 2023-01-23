@@ -1,0 +1,20 @@
+{
+    "kayitlar": [
+      {
+        "id": 913,
+        "adsoyad": "Yusuf",
+        "mail": "yusuf@mail.com",
+        "yas": 20,
+        "kayTarih": "1605632871861",
+        "duzTarih": "1605633331499"
+      },
+      {
+        "id": 498,
+        "adsoyad": "Altuğ Taşkıran",
+        "mail": "ataskiran@mail.com",
+        "yas": 21,
+        "kayTarih": "1605632909141",
+        "duzTarih": "1605633355182"
+      }
+    ]
+  }

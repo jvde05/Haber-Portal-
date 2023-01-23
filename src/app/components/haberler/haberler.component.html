@@ -1,0 +1,25 @@
+<div> 
+<section class="haberler">
+<div class="container">
+  <h1 class="text-center mt-5"> Haberler</h1>
+
+  <div class="row "  >
+    
+    <div class="col-lg-3 "  *ngFor="let Icerik of haberler" >
+      
+      <div class="card" >
+        <img src="https://help724.com/wp-content/uploads/2020/10/Haber-Yazisi-Ornekleri-1.jpg  "  width="300" high="100" > 
+        <h4 class="mt-2">{{Icerik.icerikAdi}}<br>({{Icerik.icerikKatAdi}})</h4>
+        <p class="mt-1">{{Icerik.icerikyazi}}</p>
+        <button class="btn btn-dark btn-sm mb-5">Devamını Oku... </button>
+
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+</section>
+</div>
